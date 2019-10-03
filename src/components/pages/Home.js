@@ -28,8 +28,8 @@ class HomePage extends React.Component {
         return (
             <div>
                 <Hero
-                    header="Ricky Garcia"
-                    subHeader="Helping you get online."
+                    header="Abdirahman Ibrahim"
+                    subHeader="Help me get my dream job "
                     bg="home-hero-bg"
                     secondaryBg="home-hero-bg--secondary"
                     btnPara="Get In Touch"
@@ -54,7 +54,7 @@ class HomePage extends React.Component {
                 })}
                 <CallToAction
                     ctaHeader="Let's Connect"
-                    ctaPara="Have a project in mind? Want me to speak at your event? Require consulting on a current development? Let’s talk about it."
+                    ctaPara="Have a project in mind? Want me to speak at your event? Require skills on a current development? Let’s talk about it."
                     ctaBtnText="Send Message"
                 />
             </div>

@@ -52,17 +52,9 @@ export default class Skills extends React.Component {
                     header={this.state.backEnd.header}
                     para={this.state.backEnd.para}
                     skills={this.state.backEnd.skills}
+                   
                 />
-                <FourColWrap
-                    header={this.state.marketing.header}
-                    para={this.state.marketing.para}
-                    skills={this.state.marketing.skills}
-                />
-                <ThreeColWrap
-                    header={this.state.contentCreation.header}
-                    para={this.state.contentCreation.para}
-                    skills={this.state.contentCreation.skills}
-                />
+              
                 <CallToAction
                     ctaHeader="Need My Expertise?"
                     ctaPara="I'm ready to dig deep into my arsenal of skills, techniques to help you achieve your goals. Send me a line to get the ball rolling."

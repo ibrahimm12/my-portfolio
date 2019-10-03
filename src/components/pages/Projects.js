@@ -46,6 +46,7 @@ export default class HomePage extends React.Component {
                         />
                     )
                 })}
+                
                 <CallToAction
                     ctaHeader="Let's Start On Your Project?"
                     ctaPara="I'm ready to dig deep into my arsenal of skills, techniques to help you achieve your goals. Send me a line to get the ball rolling."

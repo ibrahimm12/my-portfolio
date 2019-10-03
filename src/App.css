@@ -200,7 +200,7 @@ h1, p, a {
   right: 0;
   bottom: 0; }
   .overlay--hidden {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: transparent;
     z-index: -99;
     transition: background-color 250ms ease, z-index 1ms linear 250ms; }
   .overlay--active {
