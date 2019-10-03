@@ -1,5 +1,5 @@
 import React from "react";
-import mongoDBlogo from "../../images/mongoDB-logo.png";
+//import mongoDBlogo from "../../images/mongoDB-logo.png";
 import mysqlicon from "../../images/mysql-icon.png";
 import springbooticon from "../../images/spring-boot-icon.png";
 import vaadinicon from "../../images/vaadin_icon.png";
