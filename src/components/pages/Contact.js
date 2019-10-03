@@ -1,6 +1,6 @@
 import React from 'react';
 import Hero from '../containers/Hero';
-import axios from 'axios';
+// import axios from 'axios';
 import Modal from 'react-modal';
 
 Modal.setAppElement('div');
